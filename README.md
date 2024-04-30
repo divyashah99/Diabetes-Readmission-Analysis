@@ -26,7 +26,7 @@ The project's scope ranges from extracting insights through exploratory analysis
 ### Model Training and Validation
 
 - The dataset is split into two sets: one for training the model and the other for validating the results.
-- Three machine learning models are explored, with logistic regression identified as the optimal model, achieving a 92% accuracy in predicting readmitted patient records.
+- Five machine learning models are explored, with random forest identified as the optimal model (AUC = 0.6).
 
 ## Dataset
 
